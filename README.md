@@ -16,6 +16,7 @@ Try it here! (Add your Streamlit Cloud link after deployment)
 🔒 Privacy First - Process documents locally, no data stored
 
 Demo Link : https://pdf-chat-rag-fx5nczbrwczzpou6qyczmj.streamlit.app/
+(Note: You'll need a free Groq API key to chat — sign up in seconds at https://console.groq.com 🔥)
 
 🛠️ Tech Stack
 TechnologyPurposeWhy We Chose ItLangChainRAG FrameworkIndustry-standard for building LLM apps with document retrievalGroqLLM Inference10x faster than traditional inference, free tier availableFAISSVector SearchFacebook's efficient similarity search libraryStreamlitUI FrameworkRapid prototyping with beautiful Python-based interfacesHuggingFaceEmbeddingsOpen-source sentence transformers for text vectorization
